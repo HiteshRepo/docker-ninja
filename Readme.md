@@ -66,7 +66,7 @@
     5. [5/6] COPY src src
     6. [6/6] RUN mvn package -DskipTests
 
-## Dockerfile
+## Dockerfile.multistage
 1. Setting builder and runner stages
 2. This helps to build once and even on code change the same builder image [that is cached] can be reused
 3. Dockerignore file to reduce context size
