@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-// todo controller - change to trigger docker build again
+// todo controller - change to trigger docker build again - now for multistage
 @RestController
 @RequestMapping(value = "/todo")
 public class TodoController {
