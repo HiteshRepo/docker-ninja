@@ -1,3 +1,5 @@
 fileignoreconfig:
 - filename: Readme.md
   checksum: b3eecc0937d9c8093c57d8f81d4bef8d76d5864bbe44c3ad41583d3561d56c58
+- filename: dockerLearnings.md
+  checksum: 67519338ff31fdc29494282af8961d80c6c9297e1b9d1e9b6319ab220fd73acd
